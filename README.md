@@ -31,6 +31,6 @@ Welcome to **TaxiFareModel** — a smart, interactive app that helps you:
    ```bash
    git clone https://github.com/yourusername/TaxiFareModel.git
    cd TaxiFareModel
-👩‍💻 Author
+## 👩‍💻 Author
 Made by 3Maali 
 Bootcamp Project – Data Science & AI, Saudi Digital Academy
