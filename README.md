@@ -4,7 +4,7 @@ Welcome to **TaxiFareModel** — a smart, interactive app that helps you:
 
 ✨ **Discover an exciting activity** to enjoy your day in Riyadh  
 🚖 **Calculate the taxi fare** for your trip in just one click!
-
+https://mamq7vca95d2zfrgfuoaaa.streamlit.app/
 ---
 
 ## 🔧 Project Structure
